@@ -1,0 +1,383 @@
+2024-09-26T08:41:02.765Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:05:15.411Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:05:34.828Z [[32minfo[39m]: Incoming request: GET /
+2024-09-26T09:05:34.829Z [[32minfo[39m]: GET / request received
+2024-09-26T09:06:08.614Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T09:06:08.616Z [[32minfo[39m]: undefined
+2024-09-26T09:07:12.829Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:07:15.524Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:07:16.208Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:07:29.389Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T09:07:29.389Z [[32minfo[39m]: undefined
+2024-09-26T09:08:34.812Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T09:08:34.830Z [[32minfo[39m]: The moon glows bright, in the quiet night sky...
+2024-09-26T09:09:22.917Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:09:25.927Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T09:09:25.935Z [[32minfo[39m]: The moon glows bright, in the quiet night sky...
+2024-09-26T09:10:27.809Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:10:30.504Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:10:36.203Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:10:40.177Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:10:44.268Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:12:58.127Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T09:12:58.138Z [[32minfo[39m]: Analyze the provided HTML, CSS, and JavaScript code for a website and provide a comprehensive evaluation based on the following criteria. Use a scale of 1-5 for each criterion, where 1 is poor and 5 is excellent. Provide a brief explanation for each score and suggest improvements where applicable.
+
+HTML Evaluation (Score: /25)
+Structure and semantics (/5)
+Accessibility (/5)
+Best practices (/5)
+Compatibility (/5)
+SEO optimization (/5)
+CSS Evaluation (Score: /25)
+Code quality and organization (/5)
+Responsiveness (/5)
+Browser compatibility (/5)
+Performance optimization (/5)
+Modern practices (/5)
+JavaScript Evaluation (Score: /25)
+Code quality and readability (/5)
+Performance and optimization (/5)
+Modern practices and ES6+ features (/5)
+Error handling and debugging (/5)
+Integration with HTML/CSS (/5)
+Overall Evaluation (Score: /25)
+Code organization and structure (/5)
+Documentation and comments (/5)
+Consistency across files (/5)
+Use of version control (if applicable) (/5)
+Overall best practices (/5)
+Total Score: /100
+
+Please provide a summary of the evaluation, highlighting the main strengths and areas for improvement. Include specific recommendations for enhancing the code quality, performance, and user experience of the website.
+2024-09-26T09:21:05.308Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:21:09.530Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T09:21:09.538Z [[32minfo[39m]: Analyze the provided HTML, CSS, and JavaScript code for a website and provide a comprehensive evaluation based on the following criteria. Use a scale of 1-5 for each criterion, where 1 is poor and 5 is excellent. Provide a brief explanation for each score and suggest improvements where applicable.
+
+HTML Evaluation (Score: /25)
+Structure and semantics (/5)
+Accessibility (/5)
+Best practices (/5)
+Compatibility (/5)
+SEO optimization (/5)
+CSS Evaluation (Score: /25)
+Code quality and organization (/5)
+Responsiveness (/5)
+Browser compatibility (/5)
+Performance optimization (/5)
+Modern practices (/5)
+JavaScript Evaluation (Score: /25)
+Code quality and readability (/5)
+Performance and optimization (/5)
+Modern practices and ES6+ features (/5)
+Error handling and debugging (/5)
+Integration with HTML/CSS (/5)
+Overall Evaluation (Score: /25)
+Code organization and structure (/5)
+Documentation and comments (/5)
+Consistency across files (/5)
+Use of version control (if applicable) (/5)
+Overall best practices (/5)
+Total Score: /100
+
+Please provide a summary of the evaluation, highlighting the main strengths and areas for improvement. Include specific recommendations for enhancing the code quality, performance, and user experience of the website.
+2024-09-26T09:24:21.857Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:24:24.400Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:24:29.409Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:24:38.351Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:24:39.531Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:24:46.053Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:24:55.034Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:24:57.695Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:25:02.369Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:25:03.874Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:25:55.244Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:26:02.061Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:26:11.339Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:26:14.947Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:26:15.155Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:26:21.126Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:26:24.403Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:26:24.845Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:26:26.683Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:26:33.174Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:26:34.449Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:26:34.923Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:26:48.274Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:26:52.050Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:27:00.414Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T09:27:00.422Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T09:27:46.083Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:27:55.691Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:27:56.778Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:28:00.358Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T09:28:00.366Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T09:28:54.589Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:28:56.480Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T09:28:56.488Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T09:30:23.648Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:30:28.351Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:30:31.197Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:30:35.386Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:30:35.582Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T09:30:39.729Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T09:30:39.738Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T09:32:59.910Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:01:14.731Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:01:34.933Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:01:35.818Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:01:44.288Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T10:01:44.298Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T10:14:55.328Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:15:05.124Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:15:13.897Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T10:15:13.907Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T10:16:22.989Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:16:24.838Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:16:28.334Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T10:16:28.343Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T10:31:10.640Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:31:14.806Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:31:19.971Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:31:22.734Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:31:40.166Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T10:31:40.175Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T10:37:22.400Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:37:28.506Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:37:33.856Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:37:36.342Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:37:39.590Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:37:40.731Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:37:44.512Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:37:46.403Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T10:37:46.411Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T10:38:40.201Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:38:49.188Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:38:51.964Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:38:55.324Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:38:59.316Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:39:00.829Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:39:09.149Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:39:12.853Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:39:15.755Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:39:16.820Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:39:18.535Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:39:28.014Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:39:33.006Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:39:35.407Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:39:42.730Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:39:45.959Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:40:01.747Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:40:07.701Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T10:40:07.709Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T10:48:08.024Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:48:17.681Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:48:25.583Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:48:27.374Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:48:33.464Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:48:34.733Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:48:38.254Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:48:43.304Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:48:55.761Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:48:56.910Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:48:58.035Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:48:59.942Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:49:01.228Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:49:04.293Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T10:49:04.300Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T10:53:33.294Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:53:39.814Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:53:57.436Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:54:03.438Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:54:09.016Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:54:12.518Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:54:21.383Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:54:30.339Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:54:38.884Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:54:42.558Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:54:43.773Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:54:45.071Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:54:48.275Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:54:49.387Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:55:40.901Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:55:49.882Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:55:51.029Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:55:52.571Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:55:56.137Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T10:55:56.145Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T10:59:28.436Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:59:31.123Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:59:34.595Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:59:36.648Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T10:59:41.598Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:00:05.490Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:00:11.305Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:00:15.549Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:00:16.929Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:00:19.907Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T11:00:19.914Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T11:00:44.466Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:00:49.836Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T11:00:49.845Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T11:01:39.977Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:01:41.892Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:01:51.802Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:01:56.473Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T11:01:56.483Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T11:05:11.456Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:05:23.572Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:06:30.221Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:06:36.228Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:06:37.211Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:06:39.825Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:06:49.732Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:06:59.720Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:07:02.819Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:07:03.623Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:07:07.147Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T11:07:07.153Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T11:07:24.808Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:07:33.456Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:07:37.427Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:07:40.219Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:07:40.717Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:08:02.188Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:08:08.152Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:08:10.571Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:08:13.332Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T11:08:13.340Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T11:48:50.646Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:49:08.248Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:49:11.122Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T11:49:11.130Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T11:53:22.459Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:53:26.601Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T11:53:26.610Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T11:54:20.047Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T11:55:14.703Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T11:55:14.712Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T12:02:21.057Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:02:31.377Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T12:02:31.385Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T12:04:27.279Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:04:29.864Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:04:32.214Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:04:37.298Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:04:39.273Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T12:04:39.281Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T12:05:40.859Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:05:46.555Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T12:05:46.563Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T12:06:20.727Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:06:37.185Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:06:40.497Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:06:43.272Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:06:44.545Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:06:47.289Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T12:06:47.296Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T12:07:46.794Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:07:49.302Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:07:54.319Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:07:55.978Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:07:59.158Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T12:07:59.166Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T12:13:22.632Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:13:36.505Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:13:43.156Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:13:46.269Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:13:51.996Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:14:15.279Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:14:18.869Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:14:20.343Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:14:29.321Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T12:14:29.329Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T12:15:33.376Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:15:33.533Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:15:42.124Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T12:15:42.133Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T12:30:03.245Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:30:05.949Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:30:13.386Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:30:15.717Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:30:18.549Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:30:22.035Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:30:34.217Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T12:30:34.225Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T12:30:55.321Z [[31merror[39m]: Unexpected token '`', "```json
+{
+"... is not valid JSON
+2024-09-26T12:32:40.404Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:32:43.713Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:32:48.771Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:32:50.994Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:32:54.347Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:33:03.675Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:34:16.556Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:34:18.345Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:34:29.268Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:34:47.213Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:35:02.246Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:35:49.223Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:35:55.582Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T12:35:55.589Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T12:36:33.902Z [[31merror[39m]: Unexpected token 'H', "Here is th"... is not valid JSON
+2024-09-26T12:44:19.831Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:44:24.367Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T12:44:24.375Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T12:45:08.098Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:45:11.209Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:45:22.301Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:45:25.171Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:45:31.980Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T12:45:31.987Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T12:49:47.730Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T12:49:51.657Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T12:49:51.664Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T12:51:45.284Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T13:01:47.214Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T13:01:47.950Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T13:01:50.776Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T13:01:54.797Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T13:02:05.666Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T13:02:15.370Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T13:02:20.666Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T13:02:20.673Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T22:41:35.696Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T22:42:06.729Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T22:42:06.757Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T22:44:11.438Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T22:44:13.094Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T22:44:16.353Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T22:44:16.362Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T22:45:10.182Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T22:46:21.882Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T22:46:24.241Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T22:46:29.377Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T22:46:29.385Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T22:46:35.540Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T22:46:42.227Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-09-26T22:46:43.876Z [[32minfo[39m]: Incoming request: POST /openai
+2024-09-26T22:46:43.883Z [[32minfo[39m]: https://thejellybee.com/
+2024-09-26T22:47:41.069Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-10-04T12:53:27.382Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-10-04T12:53:34.372Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-10-04T12:54:09.609Z [[32minfo[39m]: Incoming request: POST /openai
+2024-10-04T12:54:09.631Z [[32minfo[39m]: https://thejellybee.com/
+2024-10-04T12:54:45.496Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-10-04T12:54:46.600Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-10-04T12:54:48.615Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-10-04T12:54:50.103Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-10-04T12:54:50.852Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-10-04T12:54:54.618Z [[32minfo[39m]: Incoming request: POST /openai
+2024-10-04T12:54:54.690Z [[32minfo[39m]: https://thejellybee.com/
+2024-10-04T12:56:33.435Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-10-04T12:56:40.387Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-10-04T12:56:48.735Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-10-04T12:56:52.666Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-10-04T12:57:01.066Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-10-04T12:57:07.940Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-10-04T12:57:10.627Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-10-04T12:57:15.847Z [[32minfo[39m]: Incoming request: POST /openai
+2024-10-04T12:57:15.857Z [[32minfo[39m]: https://thejellybee.com/
+2024-10-04T12:59:08.679Z [[32minfo[39m]: Server running at http://localhost:3000
+2024-10-04T12:59:16.203Z [[32minfo[39m]: Incoming request: POST /openai
+2024-10-04T12:59:16.218Z [[32minfo[39m]: https://thejellybee.com/
