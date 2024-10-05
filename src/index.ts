@@ -43,11 +43,11 @@ app.post("/openai", async (req: Request, res: Response, next: NextFunction) => {
 // Define a simple root route
 app.get("/", (req: Request, res: Response) => {
   logger.info("GET / request received");
-  // listAvailableModels();
   res.send("Hello, TypeScript with Express, pnpm, dotenv, and OpenAI!");
 });
 
 // Start the server
 app.listen(port, () => {
   logger.info(`Server running at http://localhost:${port}`);
+  // listAvailableModels();
 });
