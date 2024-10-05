@@ -28,11 +28,11 @@ Total Score: /100
 Please provide a summary of the evaluation, highlighting the main strengths and areas for improvement. Include specific recommendations for enhancing the code quality, performance, and user experience of the website.
 add the original code and it's corresponding recommended code
 return as a json obj and make sure it can be JSON.parse but don't prepend it with json
-${htmlContent}
 `;
-
-export const prompts1 = (htmlContent: string) => `
-${htmlContent}
+// ${htmlContent}
+// htmlContent: string
+export const prompts1 = () => `
+You are an expert code reviewer. I will provide chunks of a webpage's HTML content. Remember each chunk, analyze them,
 Evaluate the HTML, CSS, and JavaScript code using a 1-5 scale (1 = poor, 5 = excellent). Provide explanations and suggestions where needed.
 
 ### HTML (Score: /25)
@@ -70,5 +70,10 @@ Ensure the JSON object has a valid structure:
 - Provide both the original and recommended code for each section. THIS IS VERY IMPORTANT.
 - Use commas to separate key-value pairs and arrays correctly.
 Return the result **only** as a plain JSON object without any prefixes, markdown formatting (e.g., no backticks or \`\`\`json), or extra text. The output should be clean and ready to be parsed directly using \`JSON.parse()\`.
+`;
+// ${htmlContent}
 
+export const htmlContentOnly = (htmlContent: string) => `${htmlContent}`;
+export const finalReportPrompt =
+  () => `Now, based on all the provided chunks, generate a final consolidated report Return the result **only** as a plain JSON object without any prefixes, markdown formatting (e.g., no backticks or \`\`\`json), or extra text. The output should be clean and ready to be parsed directly using \`JSON.parse()
 `;

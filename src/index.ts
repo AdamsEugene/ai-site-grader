@@ -1,7 +1,10 @@
 import express, { NextFunction, Request, Response } from "express";
 import dotenv from "dotenv";
 import logger from "./logger";
-import { generateCompletionWithWebpage } from "./openaiService"; // Import the OpenAI service
+import {
+  generateCompletionWithWebpage,
+  listAvailableModels,
+} from "./openaiService"; // Import the OpenAI service
 
 // Configure dotenv to load environment variables
 dotenv.config();
@@ -40,6 +43,7 @@ app.post("/openai", async (req: Request, res: Response, next: NextFunction) => {
 // Define a simple root route
 app.get("/", (req: Request, res: Response) => {
   logger.info("GET / request received");
+  // listAvailableModels();
   res.send("Hello, TypeScript with Express, pnpm, dotenv, and OpenAI!");
 });
 
